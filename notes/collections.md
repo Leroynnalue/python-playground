@@ -5,16 +5,16 @@ In python, a collection can be referred to as a set of items stored together in 
 
 ## Forms of collection in python
 ---
-> Lists
-> Dictionaries
+> List
+> Dictionary
+> Set
+> Tuple
 
 ## Dictionaries
 ---
-Dictionaries in pythons, are the most powerful data collector.
+Dictionaries are used to store data values in key:value pairs.
 
-Features:
-- Dictionaries allow us to do fast database-like operations in Python
-
+A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
 
 
 ## Difference Between Lists & Dictionaries
