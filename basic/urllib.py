@@ -1,5 +1,5 @@
 # Creating a web browser using url library (urllib)
-import urllib.request, urllib.parse, urllib.error
+import urllib.request
 
 url = 'http://data.pr4e.org/romeo.txt'
 datahandler = urllib.request.urlopen(url)
